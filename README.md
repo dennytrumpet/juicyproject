@@ -1,5 +1,5 @@
 # Dennis's Juicy Project
-Answering questions using the Nutritionix API.
+A little project using flask, bootstrap, and mostly jQuery, to answer questions with the Nutritionix API.
 
 ## Running Locally
 
