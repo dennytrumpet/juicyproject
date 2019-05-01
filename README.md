@@ -4,7 +4,7 @@ Answering questions using the Nutritionix API.
 ## Running Locally
 
 ```sh
-$ git clone 
+$ git clone https://github.com/dennytrumpet/juicyproject.git
 $ cd juicyproject
 
 $ pip install Flask
